@@ -7,7 +7,7 @@ body {
 /*stile generale per il container dell'header*/
 .container {
     width: 1000px;
-    margin: auto;
+    margin: auto; /*per centrare orizzontalmente*/
     transition: 0.5s;
 }
 
